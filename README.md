@@ -1,1 +1,1 @@
-# tibco-sampl
+# tibco-sample
